@@ -1,0 +1,11 @@
+Todays tasks:
+
+
+1. Lets assume that you have 2 folders (folder1 & folder2). Now folder1 has some files & folders. now write a command to copy all files & folders from folder1 to folder2
+2. Lets assume that you have 5 files (file1 file2 file3 file4 & file5). Lets assume that file1 has some data. Now write a command to copy the data from file1 to remaining 4 files at a time.
+3. lets assume that you have 2 folders (folder1 & folder2). Now folder1 has 1file with data, now how to copy the data from folder1 to folder2
+
+
+
+
+
